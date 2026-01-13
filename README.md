@@ -1,8 +1,8 @@
 <p align="center">
  <img width="110px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Cyber Soldier" />
- <h2 align="center">⚔️ Cyber Profile</h2>
+ <h2 align="center">⚔️ Pranaw N N</h2>
 </p>
-### 👋 Hi, I am **Pranaw N N**
+### 👋 Hi, I am Pranaw N N
 **Cybersecurity Student | Blue Team Defender | Future Penetration Tester**
 <a href="https://www.linkedin.com/in/pranaw-nn/">
   <img align="left" alt="Pranaw's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
