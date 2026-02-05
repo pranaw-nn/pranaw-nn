@@ -67,18 +67,17 @@ I’m always building, breaking, testing, and improving.
 
 ## 📌 Featured Projects
 
-(you can change repos here anytime)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=zero-based-inbox-processor)](https://github.com/YOUR_USERNAME/zero-based-inbox-processor)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=IoT-Device-Monitoring-System)](https://github.com/YOUR_USERNAME)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=paperboy-cms)](https://github.com/YOUR_USERNAME)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=todo-list-app)](https://github.com/YOUR_USERNAME)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pranaw-nn&repo=zero-based-inbox-processor)](https://github.com/pranaw-nn/zero-based-inbox-processor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pranaw-nn&repo=IoT-Device-Monitoring-System)](https://github.com/pranaw-nn)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pranaw-nn&repo=paperboy-cms)](https://github.com/pranaw-nn)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pranaw-nn&repo=todo-list-app)](https://github.com/pranaw-nn)
 
 ---
 
 ## 📊 War Stats
 
-![Pranaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Pranaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranaw-nn&show_icons=true&theme=radical)
 
 ---
 
